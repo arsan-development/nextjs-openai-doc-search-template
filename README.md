@@ -1,4 +1,9 @@
 # Arsan Consulting Agency 
+todo: naming convention
+todo: style and formatting
+todo: reference library
+todo: tutorial video
+todo: blog post, short media, newsarticle, linkedin, use case/reason video
 
 ## Documentation
 
